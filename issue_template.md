@@ -1,7 +1,7 @@
 ## En que puedo ayudar 
 
-El repositorio ha dejado de funcionar ? []
+El repositorio ha dejado de funcionar ? [ ]
 
-No encuentras algun conjunto del codigo  ? []
+No encuentras algun conjunto del codigo  ? [ ]
 
-Otro ? []
+Otro ? [ ]
